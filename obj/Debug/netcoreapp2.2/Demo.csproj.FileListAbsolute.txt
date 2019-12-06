@@ -1,0 +1,14 @@
+/home/hamed/Documents/projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.deps.json
+/home/hamed/Documents/projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.runtimeconfig.json
+/home/hamed/Documents/projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.runtimeconfig.dev.json
+/home/hamed/Documents/projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.dll
+/home/hamed/Documents/projects/Demo/Demo/bin/Debug/netcoreapp2.2/Demo.pdb
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.csprojAssemblyReference.cache
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.csproj.CoreCompileInputs.cache
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorAssemblyInfo.cache
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorAssemblyInfo.cs
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.AssemblyInfoInputs.cache
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.AssemblyInfo.cs
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.RazorTargetAssemblyInfo.cache
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.dll
+/home/hamed/Documents/projects/Demo/Demo/obj/Debug/netcoreapp2.2/Demo.pdb
